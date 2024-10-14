@@ -1,0 +1,28 @@
+body {
+  background-color: #f8f9fa;
+  font-family: "Arial", sans-serif;
+}
+
+h1,
+h5 {
+  font-weight: bold;
+}
+
+.chart-container {
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+  height: 300px;
+}
+
+.card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card h5 {
+  color: #333;
+}
+
+.navbar {
+  margin-bottom: 2rem;
+}
